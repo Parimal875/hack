@@ -1,3 +1,4 @@
+#Starting program
 t=int(input())
 
 for T in range(t):
@@ -18,3 +19,6 @@ for T in range(t):
     elif x==y:
         print(0)
         
+        
+        
+#End Program
